@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Property_Info">Property Information</string>
+    <string name="Property_Type">Property type:</string>
+    <string name="Street_Address">Street address:</string>
+    <string name="City">City:</string>
+    <string name="State">State:</string>
+    <string name="Zipcode">Zipcode:</string>
+    <string name="Loan_Info">Loan Information</string>
+    <string name="Property_price">Property price:</string>
+    <string name="Down_payment">Down payment:</string>
+    <string name="APR">Annual percentage rate:</string>
+    <string name="Terms">Term:</string>
+    <string name="btnNew">New</string>
+    <string name="btnCalc">Calculate</string>
+    <string name="btnSave">Save</string>
+    <string name="EMI">Your monthly payment should be</string>
+    <string name="titleLoanCalculator">Monthly Payments Form</string>
+    <string name="titleSavedPreferences">Saved Preferences</string>
+    <string name="enterData"> Enter required Information</string>
+
+    <!-- Errors -->
+    <string name="errPropertyType">Enter valid property type</string>
+    <string name="errStreetAddress">Enter valid street address</string>
+    <string name="errCity">Enter valid city</string>
+    <string name="errState">Enter valid state</string>
+    <string name="errZipCode">Enter valid zip code</string>
+    <string name="errApr">Enter valid Annual Percentage Rate (APR)</string>
+    <string name="errPropertyPrice">Enter valid Property price</string>
+    <string name="errDownPayment">Enter valid Down payment</string>
+    <!-- Loader -->
+    <string name="Loading">Loading</string>
+    <string name="LoadingMessage">Wait while loading...</string>
+    <string name="deleteProperty">Property Deleted Successfully</string>
+    <string name="buttons">#428ff4</string>
+    <string name="buttonsText">#ffffff</string>
+</resources>
